@@ -23,7 +23,7 @@
 <h5>Clone the Repository</h5> <p></p>
 <div class="codehilite">
 <pre><code> 
-    git clone https://github.com/ayethandar07/TestPushNoti-using-Firebase-Server.git <br>
+    git clone https://github.com/ayethandar07/TestPushNoti-using-Firebase-Client.git <br>
 </code></pre>
 </div>
 
